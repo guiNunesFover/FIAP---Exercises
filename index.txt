@@ -7,6 +7,12 @@
     <title>Aula_01</title>
 </head>
 <body>
+    <button onclick="firstCommit()">Clique aqui!</button>
     
+    <script>
+        function firstCommit(params) {
+            alert("Opah mundaaum!!");
+        }
+    </script>
 </body>
 </html>
